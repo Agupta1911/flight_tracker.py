@@ -1,8 +1,6 @@
-# 🎈 Blank app template
+# ✈️ Live Flight Tracker
 
-A simple Streamlit app template for you to modify!
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+<img width="3185" height="1465" alt="image" src="https://github.com/user-attachments/assets/f3e40479-f3bc-4021-a23a-b20cf264ea76" />
 
 ### How to run it on your own machine
 
